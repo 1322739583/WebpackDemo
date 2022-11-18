@@ -1,0 +1,6 @@
+# Project exclude paths
+/01入门案例/webpack-demo/dist/
+/01入门案例/webpack-demo/node_modules/
+/02管理资源/webpack-demo/dist/
+/02管理资源/webpack-demo/node_modules/
+/02管理资源/webpack-demo/node_modules/fastest-levenshtein/test.js
